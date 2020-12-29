@@ -24,6 +24,7 @@
 
 .my-custom-container {
   max-width: 800px;
+  color: $yellow-300;
 }
 
 .accordion .btn-link:focus {
